@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+# Clion Work Conf
+*.xml
+*.iml
